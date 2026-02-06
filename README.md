@@ -48,23 +48,15 @@ The integration of the `gemini-3-flash-preview` model allows the system to funct
 
 ## Features Overview
 
-| Feature | Implementation |
-| --- | --- |
-| **Data Engine** | Apache Spark 3.5.0 (SQL, MLlib, Streaming) 
+**Data Engine** Apache Spark 3.5.0 (SQL, MLlib, Streaming) 
 
- |
-| **Language Model** | Google Gemini-3-Flash-Preview 
+**Language Model** Google Gemini-3-Flash-Preview 
 
- |
-| **Clinical Markers** | Self-reference ratio, circadian rhythm analysis, and stylistic variance 
+**Clinical Markers** Self-reference ratio, circadian rhythm analysis, and stylistic variance 
 
- |
-| **Topic Modeling** | Non-supervised clustering via LDA with LLM-based labeling 
+**Topic Modeling** Non-supervised clustering via LDA with LLM-based labeling 
 
- |
-| **Visualization** | Interactive Streamlit dashboard with Plotly Express charts 
-
- |
+**Visualization**  Interactive Streamlit dashboard with Plotly Express charts 
 
 ---
 
