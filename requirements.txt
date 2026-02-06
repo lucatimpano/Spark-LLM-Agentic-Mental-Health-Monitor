@@ -1,0 +1,17 @@
+# Installazione specifica per CPU (da lanciare con flag extra-index-url)
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core Libraries
+pandas
+plotly
+psutil
+setuptools
+
+# Streamlit Ecosystem
+streamlit
+streamlit-option-menu
+
+# Big Data & AI
+pyspark==3.5.0
+google-genai
+google-api-core
