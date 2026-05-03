@@ -12,35 +12,28 @@ The system is designed with a modular architecture to separate data processing l
 
 The integration of the `gemini-3-flash-preview` model allows the system to function as an agent capable of interpreting natural language and interacting with the Spark environment.
 
-* 
-**Code Generation**: The LLM translates user prompts into executable PySpark code.
+* **Code Generation**: The LLM translates user prompts into executable PySpark code.
 
 
-* 
-**Dynamic Execution**: Generated code is executed at runtime within the active `SparkSession` context using Python's `exec()` function.
+* **Dynamic Execution**: Generated code is executed at runtime within the active `SparkSession` context using Python's `exec()` function.
 
 
-* 
-**Semantic Labeling**: The agent interprets raw clusters from Latent Dirichlet Allocation (LDA) to provide human-readable thematic titles.
+* **Semantic Labeling**: The agent interprets raw clusters from Latent Dirichlet Allocation (LDA) to provide human-readable thematic titles.
 
 
 
 ### 2. Distributed Data Processing
 
-* 
-**Spark Engine**: Handles over 600,000 records using a Master-Worker topology for horizontal scalability.
+* **Spark Engine**: Handles over 600,000 records using a Master-Worker topology for horizontal scalability.
 
 
-* 
-**Psycholinguistic Analysis**: Calculates the *Self-Reference Ratio* (I-usage frequency) as a clinical marker for mood disorders.
+* **Psycholinguistic Analysis**: Calculates the *Self-Reference Ratio* (I-usage frequency) as a clinical marker for mood disorders.
 
 
-* 
-**Temporal Analytics**: Examines circadian rhythms by normalizing post frequency across 24 hours to identify sleep-wake cycle anomalies.
+* **Temporal Analytics**: Examines circadian rhythms by normalizing post frequency across 24 hours to identify sleep-wake cycle anomalies.
 
 
-* 
-**Structured Streaming**: Monitors live data batches to update class distribution metrics in real-time.
+* **Structured Streaming**: Monitors live data batches to update class distribution metrics in real-time.
 
 
 
