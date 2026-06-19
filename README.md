@@ -106,6 +106,13 @@ To test the real-time analytics module, run the batch simulator in a separate te
 python stream_simulator.py
 
 ```
+---
+### 7. Some Screenshot
+<img width="1924" height="936" alt="screenshot_schermata_home" src="https://github.com/user-attachments/assets/e0d3f7f7-cce2-46c1-a853-1682db903eee" />
+<img width="912" height="762" alt="feature_importance" src="https://github.com/user-attachments/assets/d82bc58c-40ef-4bd0-acbf-434b3d95e468" />
+<img width="495" height="699" alt="chat1" src="https://github.com/user-attachments/assets/b76b26d6-00ac-4a05-bf32-a7dc3ed3734c" />
+<img width="495" height="699" alt="chat2" src="https://github.com/user-attachments/assets/c594b016-b100-491a-be2d-1b85d6a40f54" />
+<img width="495" height="699" alt="chat3" src="https://github.com/user-attachments/assets/015973cc-afe4-4b6a-a98a-344d4caf9149" />
 
 ---
 
