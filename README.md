@@ -133,12 +133,12 @@ This writes randomized batches of 20 rows every 3 seconds to a `stream_input/` d
 ## Screenshots
 
 | Home Dashboard | Feature Importance |
-|---|---|
+|---|---|---|
 | ![Home](https://github.com/user-attachments/assets/e0d3f7f7-cce2-46c1-a853-1682db903eee) | ![Feature Importance](https://github.com/user-attachments/assets/d82bc58c-40ef-4bd0-acbf-434b3d95e468) |
 
-| LLM Chat Interface |
-|---|
-| ![Chat](https://github.com/user-attachments/assets/b76b26d6-00ac-4a05-bf32-a7dc3ed3734c) |
+| LLM Chat | LLM Chat | LLM Chat |
+|---|---|---|
+| ![Chat1](https://github.com/user-attachments/assets/b76b26d6-00ac-4a05-bf32-a7dc3ed3734c) | ![Chat2](https://github.com/user-attachments/assets/c594b016-b100-491a-be2d-1b85d6a40f54) | ![Chat3](https://github.com/user-attachments/assets/015973cc-afe4-4b6a-a98a-344d4caf9149) |
 
 ---
 
